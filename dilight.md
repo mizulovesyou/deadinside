@@ -1,5 +1,5 @@
 # Dead Inside Community Servers
-##Here you can find things for the DI Light modpack
+## Here you can find things for the DI Light modpack
 
 CurseForge: [here](https://legacy.curseforge.com/minecraft/modpacks/dead-inside-light/)
 
