@@ -5,7 +5,7 @@ CurseForge: [here](https://legacy.curseforge.com/minecraft/modpacks/dead-inside-
 
 Dynmap: [here](https://discord.gg/NgmvTTZSBp)
 
-Mod List: 
+Mod List: [here](https://github.com/mizulovesyou/deadinside/blob/bab63a94243feffbcd9ffa32273cf3d75d56ac66/dilmodlist/)
 
 Voting link 1: https://www.planetminecraft.com/servers/tag/modded/
 
